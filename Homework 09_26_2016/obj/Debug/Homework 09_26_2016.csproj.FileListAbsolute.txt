@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Homework 09_26_2016\Homework 09_26_2016\bin\Debug\Homework 09_26_2016.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Homework 09_26_2016\Homework 09_26_2016\obj\Debug\Homework 09_26_2016.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Homework 09_26_2016\Homework 09_26_2016\bin\Debug\Homework 09_26_2016.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Homework 09_26_2016\Homework 09_26_2016\bin\Debug\Homework 09_26_2016.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Homework 09_26_2016\Homework 09_26_2016\obj\Debug\Homework 09_26_2016.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Homework 09_26_2016\Homework 09_26_2016\obj\Debug\Homework 09_26_2016.pdb
